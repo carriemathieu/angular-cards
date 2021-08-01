@@ -1,0 +1,6 @@
+/* finds host element for specific component */
+:host {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
